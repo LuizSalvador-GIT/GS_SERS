@@ -1,7 +1,11 @@
 # Citizen Assist AI — Módulo de Energia
 **Disciplina:** Soluções em Energias Renováveis e Sustentáveis (Global Solution 2026)
 
-**Integrantes:** (Nome completo — RM) ← preencher
+**Integrantes:**
+
+Luiz Cesar Conti Salvador RM: 571305
+Victor Do Prado Manzini RM: 572123
+Guilherme de Oliveira Santos RM:572195
 
 > Este repositório pode ser compartilhado com outras disciplinas. A contribuição desta disciplina está em `energia.py`, `dados.md`, `analise.md` e `testes_usuarios.md`.
 
